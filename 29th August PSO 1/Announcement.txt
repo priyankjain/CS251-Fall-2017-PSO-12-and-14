@@ -1,0 +1,26 @@
+Hello everyone,
+
+Hope you are enjoying the long weekend. Here are the notes used in last PSO section: 
+https://github.com/priyankjain/CS251-Fall-2017-PSO-12-and-14
+
+This would be our non-official (not tied to Purdue) PSO related repository where I would be putting in all code discussed in the PSO.
+
+We would be covering following topics this Tuesday:
+- Linear Search
+- Binary Search
+- Hash Search
+- Selection Sort
+- Bubble Sort
+- Insertion Sort
+- Quick sort
+- Merge sort
+- Heap sort
+- Count sort
+
+Re-iterating two important announcements from last PSO:
+- I would stop answering any project related emails 24 hours before the deadline
+- For any regrade requests related to project/assignments/exams drop me a small note related to the issue and that would be addressed within 3 working days.
+
+Thanks!
+Priyank
+
