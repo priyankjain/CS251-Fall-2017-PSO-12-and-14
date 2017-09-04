@@ -1,0 +1,13 @@
+Stack
+- push
+- pop
+- top
+- empty
+LIFO
+
+Queue
+- pop/dequeue
+- push/enqueue
+- front
+- empty
+FIFO
