@@ -1,5 +1,7 @@
 // Insertion Sort
 // Problem: Given an array, sort it
+// Idea: At each step, insert the first element of sorted part into its
+// correct position in the unsorted part.
 // Time Complexity: O(n^2)
 // Space Complexity: O(1)
 

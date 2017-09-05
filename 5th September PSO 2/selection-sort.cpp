@@ -1,5 +1,7 @@
 // Selection Sort
 // Problem: Given an array, sort it
+// Idea: At each step, select the smallest element from the unsorted part
+// and append it to the sorted part.
 // Time Complexity: O(n^2)
 // Space Complexity: O(1)
 

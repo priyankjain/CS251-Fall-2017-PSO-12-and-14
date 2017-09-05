@@ -1,5 +1,8 @@
 // Bubble Sort
 // Problem: Given an array, sort it
+// Idea: At each step, bubble out the maximum element from the sorted part
+// to the unsorted part. Here sorted part comes after unsorted part,
+// unlike selection or insertion sort.
 // Time Complexity: O(n^2)
 // Space Complexity: O(1)
 
@@ -13,7 +16,7 @@ void swap(int& a, int& b) {
 	b = temp;
 }
 void BubbleSort(vector<int>& arr) {
-	for(int i=arr.size()-1; i>=0; i--) {
+	for(int i=arr.size()-1; i>0; i--) {
 		for(int j=0; j<i; j++) {
 			if(arr[j] > arr[j+1]) {
 				swap(arr[j+1], arr[j]);
