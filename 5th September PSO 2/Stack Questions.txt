@@ -1,0 +1,5 @@
+Given an array, return another array consisting of next greater element of current element. If there is no next greater element, use -1
+Example input: [13, 7, 6, 12]
+Example output: [-1, 12, 12, -1]
+
+Source: http://www.geeksforgeeks.org/next-greater-element/

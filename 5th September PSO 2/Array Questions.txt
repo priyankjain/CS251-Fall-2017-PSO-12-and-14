@@ -1,0 +1,9 @@
+1. Given an array, return an array as the same size of the given
+array, with value being the product of each element in the array except self.
+Example input: arr: [1, 2, 3, 4, 5]
+Example output: result: [120, 60, 40, 30, 24]
+Here arr[1] = 2 and result[1] = 60. 60 is the product of all elements in original array except the element at index 1.
+- Follow up: Can you do it without using division operator?
+- Follow up: Can you do it without using extra space? The result array doesn't count as extra space.
+
+Source: http://www.geeksforgeeks.org/a-product-array-puzzle/
