@@ -58,6 +58,13 @@ void Levelorder(Node* root) {
 }
 
 int main() {
+	/*
+				1
+			  /   \ 
+			2		3
+		   /  \    /  \
+		 4	   5  6    7
+*/
 	Node* node = new Node(1);
 	node->left = new Node(2);
 	node->right = new Node(3);
